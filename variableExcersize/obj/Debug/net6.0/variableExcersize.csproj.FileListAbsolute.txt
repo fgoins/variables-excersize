@@ -1,0 +1,15 @@
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\bin\Debug\net6.0\variableExcersize.exe
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\bin\Debug\net6.0\variableExcersize.deps.json
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\bin\Debug\net6.0\variableExcersize.runtimeconfig.json
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\bin\Debug\net6.0\variableExcersize.dll
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\bin\Debug\net6.0\variableExcersize.pdb
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\obj\Debug\net6.0\variableExcersize.csproj.AssemblyReference.cache
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\obj\Debug\net6.0\variableExcersize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\obj\Debug\net6.0\variableExcersize.AssemblyInfoInputs.cache
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\obj\Debug\net6.0\variableExcersize.AssemblyInfo.cs
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\obj\Debug\net6.0\variableExcersize.csproj.CoreCompileInputs.cache
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\obj\Debug\net6.0\variableExcersize.dll
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\obj\Debug\net6.0\refint\variableExcersize.dll
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\obj\Debug\net6.0\variableExcersize.pdb
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\obj\Debug\net6.0\variableExcersize.genruntimeconfig.cache
+C:\Users\faith\Desktop\Repos\variableExcersize\variableExcersize\obj\Debug\net6.0\ref\variableExcersize.dll
