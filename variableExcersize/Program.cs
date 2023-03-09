@@ -11,3 +11,13 @@ Console.WriteLine($" {firstInitial} is for {myName}.\n" +
                   $" {myName} is {age} years old. \n" +
                   $" he is {height} inches tall. \n" +
                   $" and weighs {weight} pounds.");
+#region
+//desktop work
+string name = "Timmy";
+int favNumber = 3;
+char dollarsign = '$';
+bool isgreater = false;
+double weighs= 43.5;
+decimal secounds = 55.56m;
+Console.WriteLine( $"{name} \n {favNumber} \n {dollarsign}\n {isgreater} \n {weighs}\n {secounds}");
+#endregion
